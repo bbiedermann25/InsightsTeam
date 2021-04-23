@@ -4,7 +4,7 @@
 import requests
 import json
 
-name = "Rashed Rifat"
+name = ""
 if not name:
     raise ValueError("You did not enter your name! Please do so.")
 
